@@ -1,0 +1,25 @@
+# Mac
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Gradle
+.gradle/
+build/
+
+# Android
+local.properties
+captures/
+*.iml
+
+# Spring Boot
+target/
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
